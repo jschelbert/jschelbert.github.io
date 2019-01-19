@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://www.schelberts.de/blog/"
+baseURL = "https://triumphant-trumpet-8710f2.netlify.com/"
 languageCode = "de-de"
 defaultContentLanguage = "en-us"
 title = "Optimization, Data and Other Stuff..."
