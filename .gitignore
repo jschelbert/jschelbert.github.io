@@ -6,3 +6,6 @@
 # as per https://bookdown.org/yihui/blogdown/version-control.html
 public
 blogdown
+
+# old files and examples from theme
+content/post/old-stuff
