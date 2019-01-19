@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# as per https://bookdown.org/yihui/blogdown/version-control.html
+public
+blogdown
