@@ -1,13 +1,14 @@
 ---
-title: Snowshoeing in Kleinwalsertal
+title: Snowshoeing in the Kleinwalsertal
 author: ~
 date: '2019-01-19'
 draft: yes
 slug: snowshoeing-in-kleinwalsertal
 categories:
   - Photography
+tags:
+  - Photography
   - Travelling
-tags: []
 ---
 
 For christmas my sister gifted me a showshoeing tour in the Kleinwalsertal (Kleinwalser valley).
